@@ -1,0 +1,1 @@
+# latex-german-letter-template
